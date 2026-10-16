@@ -1,0 +1,15 @@
+{
+  "soc@example.com": [
+    {"product": "FortiOS", "version": "7.2.4"},
+    {"product": "PAN-OS", "version": "11.1.2"},
+    "FortiProxy", "Cisco IOS XE Software", "Check Point Quantum Gateway", "Sophos Firewall"
+  ],
+  "dev@example.com": [
+    {"product": "OpenSSL", "version": "3.0.13"},
+    "Node.js", "Apache Tomcat", "Apache Solr", "PHP", "Chrome", "Firefox"
+  ],
+  "it@example.com": [
+    "Microsoft Exchange Server 2013", "Microsoft Office 2019", "Windows 10 Version 1809",
+    "Zimbra Server", "macOS"
+  ]
+}

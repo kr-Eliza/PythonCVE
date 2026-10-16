@@ -1,0 +1,12 @@
+.env
+subscriptions.json
+data/email_log.csv
+
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.pytest_cache/
+data/kev.json
+data/*.tmp
